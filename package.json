@@ -1,0 +1,14 @@
+{
+  "name": "time-machine",
+  "version": "0.1.0",
+  "main": "./index.js",
+  "description": "Timeout and interval wrapper",
+  "author": "Marc Roulias <marc@lampjunkie.com>",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/lampjunkie/time-machine.git"
+  },
+  "licenses": [{
+    "type": "MIT"
+  }]
+}
