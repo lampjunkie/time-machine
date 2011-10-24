@@ -1,6 +1,6 @@
 {
   "name": "time-machine",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "main": "./index.js",
   "description": "Timeout and interval wrapper",
   "author": "Marc Roulias <marc@lampjunkie.com>",
